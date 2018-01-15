@@ -8,7 +8,7 @@
     * [Assignment 1: Course Material](web-application-security/assignement-1/assignment-1-course-material.md)
     * [Assignment 2: Report Template](web-application-security/assignement-1/assignment-2-report-template.md)
     * [Assignment 3: The Threat Landscape](web-application-security/assignement-1/assignment-3-the-threat-landscape.md)
-    * Assignment 4: The Browser Security Model
+    * [Assignment 4: The Browser Security Model](web-application-security/assignement-1/assignment-4-the-browser-security-model.md)
 
 ## Part 2
 
